@@ -10,3 +10,7 @@
 | Tabulka | Druhy stlpec |
 |---------| ------------ |
 | Koniec  | Tabulky      |
+
+- [ ] zaskrtavatko 1
+- [ ] zaskrtavatko 2
+- [ ] zaskrtavatko 3
